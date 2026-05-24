@@ -4,7 +4,7 @@ A simple digital clock built with **REACT** . This project display the current t
 
 ---
 
-## Features
+## Features 🚀
 
 1. Showa hours, minutes, and seconds
 2. updates automatically in real-time
@@ -13,7 +13,7 @@ A simple digital clock built with **REACT** . This project display the current t
 
 ---
 
-## Technology
+## Technology 🛠️
 
 - **React**
 - **JavaScript** (ES6+)
@@ -22,9 +22,24 @@ A simple digital clock built with **REACT** . This project display the current t
 
 ---
 
-## How to Run
+## How to Run ✨
+--------------------------
 
-[Click here to view the repository](https://github.com/Amnaakhtar1213/digital-clock)
+## Screenshot 📸
+
+Here's take a quick look:
+- [Click here for clock screenshot](ss.png)
+
+---------------------
+
+## LIVE DEMO 🌐
+
+Here's see current time yourself via live-demo:
+- [Click here for clock live-demo]()
+
+-----------------------------------
+
+## Clone the Repository 
 ```bash
 git clone https://github.com/Amnaakhtar1213/digital-clock.git
 
