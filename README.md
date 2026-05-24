@@ -35,7 +35,7 @@ Here's take a quick look:
 ## LIVE DEMO 🌐
 
 Here's see current time yourself via live-demo:
-- [Click here for clock live-demo]()
+- [Click here for clock live-demo](https://amnaakhtar1213.github.io/digital-clock/)
 
 -----------------------------------
 
